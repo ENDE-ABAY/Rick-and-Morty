@@ -1,8 +1,7 @@
 <template>
   <div class="fixed top-0 left-0 w-full bg-white z-50 shadow-md">
     <div class="flex justify-end items-end lg:gap-52 md:gap-2 text-xl">
-      <div class="flex bg-slate-300 space-x-5 mr-2 rounded-sm p-2">
-        <!-- <Icon icon="dashicons:menu-alt" /> -->
+      <div class="flex bg-slate-100 space-x-5 mr-2 rounded-lg p-2">
         <button
           @click="navigateToHome"
           :class="getButtonClass('home')"
