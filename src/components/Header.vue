@@ -1,15 +1,6 @@
 <template>
   <div class="fixed top-0 left-0 w-full bg-white z-50 shadow-md">
     <div class="flex justify-end items-end lg:gap-52 md:gap-2 text-xl">
-      <input
-        type="text"
-        placeholder="Search here"
-        class="border lg:w-96 md:w-52 w-36 mt-2 ml-4 border-gray-400 rounded-xl shadow-md"
-      />
-      <Icon
-        icon="material-symbols-light:search"
-        class="absolute right-1/2 top-1/3 transform -translate-y-1/2 text-gray-500"
-      />
       <div class="flex bg-slate-300 space-x-5 mr-2 rounded-sm p-2">
         <!-- <Icon icon="dashicons:menu-alt" /> -->
         <button
@@ -59,7 +50,6 @@
 <script setup>
 import { ref, onMounted, onUnmounted, computed } from "vue";
 import { useRoute, useRouter } from "vue-router";
-import { Icon } from "@iconify/vue";
 const router = useRouter();
 const route = useRoute();
 const activeSection = ref("home");
