@@ -6,7 +6,10 @@
       <h1 class="text-2xl">Developed By: &nbsp;Endeabay Feleke</h1>
       <h1></h1>
 
-      <a href="https://github.com/" class="hover:text-gray-400 flex">
+      <a
+        href="https://github.com/ENDE-ABAY/Rick-and-Morty"
+        class="hover:text-gray-400 flex"
+      >
         Github &nbsp; <Icon icon="mingcute:github-fill" />
       </a>
       <a
