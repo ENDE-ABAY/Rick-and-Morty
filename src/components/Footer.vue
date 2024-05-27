@@ -13,7 +13,7 @@
         Github &nbsp; <Icon icon="mingcute:github-fill" />
       </a>
       <a
-        href="https://www.figma.com/design/dsXrZ4J9NzySsO8XWY3CHR/Rick-and-Morty-TV-Show?node-id=74-2&t=OGbWPKrVnxrH6DD2-0"
+        href=" https://www.figma.com/design/dsXrZ4J9NzySsO8XWY3CHR/Rick-and-Morty-TV-Show?node-id=0-1&t=Rt6l3ae2U0JEfz9w-0"
         class="flex"
         >Figma &nbsp;<Icon icon="logos:figma"
       /></a>
